@@ -55,4 +55,4 @@ speechBtn.addEventListener("click", e => {
             speechBtn.innerText = "Convertir voz";
         }
     }
-});
+}); 
